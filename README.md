@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new tech. I see challenges as stepping stones to success. I consider myself as a problem solver and wants to find real life solutions to real life problems.
 - 🌱 I’m currently learning Python and ML.
 - 💞️ I’m looking to team up on Hackathons.
-- 📫 This is a very short intro of myself if you want to know more about then here are my contacts:
+- 📫 This is a very short intro of myself if you want to know more about me then here are my contacts:
 - gmail:    preetrajgupta2002@gmail.com
 - IG:       @preetrajgupta_
 - Twitter:  @GuptaPreetraj
