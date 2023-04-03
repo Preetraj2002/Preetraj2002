@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Preetraj Gupta<br>👀 I’m interested in learning new tech. I see challenges as stepping stones to success. I consider myself a problem solver and want to find real life solutions to real life problems.<br>🌱 I’m currently learning Python and ML.<br>💞️ I’m looking to team up on Hackathons.<br>📫 This is a very short intro of myself if you want to know more about me then here are my contacts:<br>gmail: preetrajgupta2002@gmail.com<br>IG: @preetrajgupta_<br>Twitter: @GuptaPreetraj<br>LinkedIn: https://www.linkedin.com/in/preetraj-gupta
+👋 Hi, I’m Preetraj Gupta<br>👀 I’m interested in learning new tech. I see challenges as stepping stones to success. I consider myself a problem solver and want to find real life solutions to real life problems.<br>🌱 I’m currently learning Python and ML.<br>💞️ I’m looking to team up on Hackathons.<br>📫 This is a very short intro of myself if you want to know more about me then here are my contacts:
 
 
 ## 🌐 Socials:
